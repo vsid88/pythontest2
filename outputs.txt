@@ -1,0 +1,19 @@
+# pythontest2
+test #1_output:
+/Users/vivekananda/PycharmProjects/pythonProject1/venv/bin/python /Users/vivekananda/PycharmProjects/pythonProject1/list_test.py 
+[10, 13, 22, 35, 52, 83]
+test : 10
+[13, 22, 35, 52, 83]
+
+test #2_output:
+/Users/vivekananda/PycharmProjects/pythonProject1/venv/bin/python /Users/vivekananda/PycharmProjects/pythonProject1/update_dict.py 
+name : Tim
+birthday : 1990-03-10
+job : software engineer
+
+test #3_output:
+/Users/vivekananda/PycharmProjects/pythonProject1/venv/bin/python /Users/vivekananda/PycharmProjects/pythonProject1/dict_test.py 
+['DevOps Engineer', 'Developer']
+['Tina', 'Tim']
+['New York', 'Sydney']
+Sydney
